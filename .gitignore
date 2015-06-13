@@ -11,3 +11,8 @@
 # produced vignettes
 vignettes/*.html
 vignettes/*.pdf
+
+# Private data
+data/enriched/private*
+data/raw/private*
+
